@@ -45,10 +45,10 @@ This approach separates your app's presentation layer from its business logic, e
 ## Documentation
 
 - 📚 **[Full Documentation](https://docs.stac.dev/)** – Complete guides and API reference
-- 🚀 **[Quick Start](https://docs.stac.dev/get_started/quick_start)** – Get up and running in minutes
+- 🚀 **[Quick Start](https://docs.stac.dev/quickstart)** – Get up and running in minutes
 - 🛠️ **[Stac CLI](https://docs.stac.dev/cli)** – Command-line tools for development
 - 🎛️ **[Stac Console](https://console.stac.dev/)** – Web interface for managing your app
-- 🤝 **[Contributing](https://github.com/StacDev/stac/blob/main/CONTRIBUTING.md)** – Help build Stac
+- 🤝 **[Contributing](https://github.com/StacDev/stac/blob/dev/CONTRIBUTING.md)** – Help build Stac
 
 ## License
 
@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - 💬 **[Discord](https://discord.com/invite/vTGsVRK86V)** – Chat with the community and get help
 - 🐙 **[GitHub](https://github.com/StacDev/stac)** – Report issues and contribute
-- 🐦 **[Twitter](https://twitter.com/stacdev)** – Follow us for updates
+- 🐦 **[X](https://x.com/stac_dev)** – Follow us for updates
 
 ---
 
